@@ -20,5 +20,4 @@ if (process.argv.length <= 2) {
       process.stdout.write("#");
     }
     process.stdout.write("\n");
-  }
-  
+  } 
